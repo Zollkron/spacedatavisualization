@@ -29,6 +29,8 @@
 
 - NASA: https://www.nasa.gov/
 - NASA's Open Data: https://data.nasa.gov/
+- Everis Alicante (Spain): https://www.everis.com/spain/es
+- Open Street Map: https://www.openstreetmap.org
 - Cesium: https://cesiumjs.org/
 - WebGL Earth: http://www.webglearth.org/
 - Leaflet: https://leafletjs.com/
