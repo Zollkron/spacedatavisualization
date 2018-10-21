@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![alt text](https://i.imgur.com/sYDg7W3.png)
+![alt text](https://i.imgur.com/Rn7gUPU.png)
 
  It's a simple and easy-to-use tool to visualize NASA's Open Data, such Meteorite Landings, in several and distinct views of representation (1D, 2D, and 3D) for a better comprehension about the data you are retrieving. 
  
