@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta name="robots" content="index, all" />
+    <title>Space Data Visualization</title>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+    <script src="http://www.webglearth.com/v2/api.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="js/sdv.js"></script>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+  <body onload="javascript:init()">
+  <table width="100%" align="center">
+        <tr>
+            <td width="15%" align="center">
+                <div id="menu_div">
+                    <br>
+                    <img src="https://data.nasa.gov/api/assets/101AE2CD-4D6B-45E2-B2D6-30B36F639398" height="28%" width="100%">
+                    <br>
+                    <h1>Meteorite Landings</h1>
+                    <br>                    
+                    <a href="index.html" class="btn btn-success">Multiple views</a>
+                    <br>
+                    <br>
+                    <a href="3donly.html" class="btn btn-warning">3D Only</a>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <button type="button" class="btn btn-primary">Get Data</button>
+                    <br>
+                </div>
+            </td>
+            <td width="85%">
+                <div id="mapL"></div>
+                <div id="mapWE"></div>
+                
+            </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <div id="coords"></div>
+          </td>
+        </tr>
+    </table>
+  </body>
+</html>
