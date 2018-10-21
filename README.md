@@ -6,11 +6,11 @@
 
  It's a simple and easy-to-use tool to visualize NASA's Open Data, such Meteorite Landings, in several and distinct views of representation (1D, 2D, and 3D) for a better comprehension about the data you are retrieving. 
  
- ![alt text](https://i.imgur.com/D15I3Kp.png)
+ ![alt text](https://i.imgur.com/MpN05En.png)
  
  At this momment, you can visualize, zoom in, zoom out, move, even rotate a Earth virtual globe with the GeoLocations points where the registered meteorites have fallen. Just only need your mouse and your curiosity for travel through the data. So get ready, and Bon Voyage!
  
- ![alt text](https://i.imgur.com/tXUWDxI.png)
+ ![alt text](https://i.imgur.com/QJyGz8w.png)
 
 # Requisites
  You will need a browser that supports:
