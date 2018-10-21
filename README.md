@@ -19,14 +19,14 @@
 
 # Attributions and links
 
-NASA: https://www.nasa.gov/
-NASA's Open Data: https://data.nasa.gov/
-Cesium: https://cesiumjs.org/
-WebGL Earth: http://www.webglearth.org/
-Leaflet: https://leafletjs.com/
-jQuery: http://jquery.com
-Twitter Bootstrap: <http://twitter.github.com/bootstrap/>
-dill: <https://github.com/joemccann/dillinger>
+- NASA: https://www.nasa.gov/
+- NASA's Open Data: https://data.nasa.gov/
+- Cesium: https://cesiumjs.org/
+- WebGL Earth: http://www.webglearth.org/
+- Leaflet: https://leafletjs.com/
+- jQuery: http://jquery.com
+- Twitter Bootstrap: <http://twitter.github.com/bootstrap/>
+- dill: <https://github.com/joemccann/dillinger>
 
 License
 ----
